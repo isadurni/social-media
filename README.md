@@ -1,5 +1,8 @@
 # Piazza Documentation
 
+GitHub Link: https://github.com/isadurni/social-media
+Author: Ignacio Sadurni
+
 ## Overview
 
 This application is a backend for a social media platform. Using RESTful APIs authenticated users can create, edit, view, and delete posts. 
