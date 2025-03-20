@@ -42,7 +42,7 @@ Body Parameters:
 ```json
 // Example Body
 {
-		"name":"Ignacio"
+    "name":"Ignacio"
     "email":"ignaciosadurni@gmail.com",
     "password":"123456"
 }
