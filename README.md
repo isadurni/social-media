@@ -1,6 +1,7 @@
 # Piazza Documentation
 
 GitHub Link: https://github.com/isadurni/social-media
+
 Author: Ignacio Sadurni
 
 ## Overview
