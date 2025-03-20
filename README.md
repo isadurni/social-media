@@ -48,7 +48,7 @@ Body Parameters:
 }
 ```
 
-### Login As an Existing User
+### Login As an Existing User (returns auth-token)
 
 POST /api/user/login
 
@@ -86,6 +86,7 @@ Body Parameters:
 - title (string, max 100 characters)
 - description (string, max 500 characters)
 - likes (default 0)
+- *createdBy (automatically added, not in request body)
 
 Header:
 
