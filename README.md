@@ -22,7 +22,7 @@ This application is a backend for a social media platform. Using RESTful APIs au
 - **Backend:** Node.js, Express.js
 - **Frontend:** Postman (preferred)
 - **Database:** MongoDB (Mongoose)
-- **Authentication:** JWT (JSON Web Token)
+- **Authentication:** JWT (JSON Web Token), Bycryptjs
 - **Validation:** Joi
 
 ## API Endpoints
